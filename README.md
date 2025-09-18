@@ -21,3 +21,10 @@ C/C++: Used for a more efficient and lightweight implementation, which was execu
 
 The results show that the signal processing pipeline successfully simulates the core functions of a cochlear implant. The MATLAB implementation provided effective visualization and flexibility, while the C/C++ version proved to be efficient for offline analysis and data logging. The project demonstrates the feasibility of software-only auditory prosthetic simulation, laying the groundwork for future research in the field.
 
+pro-1.c it is recorded audio file processing in c/c++
+real1.c it is a real time audio file processing in c/c++
+
+project2.m it is recorded audio file processing in MATLAB
+real4.m it is a real time audio file processing in MATLAB
+
+for these recorded audio file processing we used sample.wav file
